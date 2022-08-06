@@ -10,3 +10,9 @@ Once inside, you will be awared a portion of mining rewards every epoch, exclusi
 
 **Disclaimer: We are advocates of the Helium Network, and we are not affiliated with the Helium Network in any way. We are simply a collection of utility nfts that are built to be used by the Helium Network.**
 
+## Staking your LunaCat
+
+Lunacats come with a unique PFP design that allows them to be locked up and staked without leaving your wallet. As soon as your Lunacat is staked, they’ll begin to accrue additional benefits. As total staked time accumulates, you’ll see your Lunacat achieve new tier levels, upgrading their cat box. Upgraded boxes enable enhanced drops and rewards.
+
+Visit us at our website [www.lunacats.xyz](https://lunacats.xyz/)
+
