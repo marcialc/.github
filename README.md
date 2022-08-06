@@ -1,1 +1,1 @@
-# .github
+## LunaCats is brought to you by team of engineers and designers with quality in mind. Our next project, codenamed Project Lunaverse is a focused and novel take on the metaverse.\nThe metaverse is an increasingly crowded space, but built correctly, has great promise for connection and community. This metaverse will be a dramatic departure from the existing 'never-ending' worlds that feel like a digital ghost town. Ours is uniquely different, and you'll have first access as a nested LunaCats holder. The LunaCats mint is just the beginning.
